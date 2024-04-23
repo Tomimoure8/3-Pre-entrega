@@ -1,0 +1,13 @@
+$color1: goldenrod;
+$color2: thistle;
+body {
+    background: radial-gradient(circle,#fff, $color1);
+}
+h1, h2 {
+    background-color: $color2;
+}
+.rmm {
+    height: 350px;
+    margin-left: 1%;
+    border: groove 8px royalblue;
+}
